@@ -16,7 +16,10 @@ Last but not least, I thrive with open communications. I enjoy finding consensus
 - ⚙️ I published two small tools to help in the usage of Terraform Cloud:
     - [tfe](https://github.com/gdurandvadas/tfc): command-line tool that let you publish to the Terraform Modules Registry
     - [tf-status](https://github.com/gdurandvadas/tf-status): GitHub Webhook that publishes the plan results on the PRs
-- 🎴 I created a web-based Risk type of game to learn TypeScript, you can find that here: [https://play.brohard.dev/](https://play.brohard.dev/)
+- 🎴 I created a web-based Risk type of game to learn TypeScript, you can play it [here](https://play.brohard.dev/)
+
+![https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif](https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif)
+
 - 🗺 I created a procedural map generator to learn Golang
 
 ![https://storage.googleapis.com/cdn-brohard-dev/voloros/small.jpg](https://storage.googleapis.com/cdn-brohard-dev/voloros/small.jpg)
