@@ -12,12 +12,12 @@ Last but not least, I thrive with open communications. I enjoy finding consensus
 
 ### In a nutshell
 
-- 🔭 I currently work at [Miro](https://miro.com/) as SRE DevOps Engineer (cloud stream)
+- 🔭 I currently work at [Mollie](https://www.mollie.com/en) as SRE DevOps Engineer
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
 - ⚙️ I published two small tools to help in the usage of Terraform Cloud:
     - [tfe](https://github.com/gdurandvadas/tfc): command-line tool that let you publish to the Terraform Modules Registry
     - [tf-status](https://github.com/gdurandvadas/tf-status): GitHub Webhook that publishes the plan results on the PRs
-- 🎴 I created a web-based Risk type of game to learn TypeScript, you can play it [here](https://play.brohard.dev/)
+- 🎴 I created a web-based Risk type of game to learn TypeScript:
 
 ![https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif](https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif)
 
