@@ -12,7 +12,7 @@ Last but not least, I thrive with open communications. I enjoy finding consensus
 
 ### In a nutshell
 
-- 🔭 I currently work at [Mollie](https://www.mollie.com/en) as SRE DevOps Engineer
+- 🔭 I currently work at [Mollie](https://www.mollie.com/en) as Site Reliability Engineer
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
 - ⚙️ I published two small tools to help in the usage of Terraform Cloud:
     - [tfe](https://github.com/gdurandvadas/tfc): command-line tool that let you publish to the Terraform Modules Registry
