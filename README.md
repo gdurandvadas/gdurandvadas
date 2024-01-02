@@ -1,14 +1,12 @@
 ## Hi there! 👋
 
-My name is Gastón. I’m a Cloud Engineer and Developer.
+I’m a Site Reliability Engineer and a Developer with over twelve years of experience in the IT industry. My career began as a SysAdmin, and during my time at Red Hat, I discovered my deep-rooted interest in managing complex systems.
 
-I started my career as a SysAdmin, and soon after my experience working for Red Hat, I realised that I wanted cloud solutions to be part of my career. I love automation, architecture, security, development, and I’m obsessed with using/creating SaaS, PaaS.
+I’m passionate about automation, architecture, security and development. I thrive in environments where I can tackle challenging projects requiring technical acumen, strategic roadmapping, and effective project management.
 
-I’m passionate about open-source. I think the license types enables all people to move technology forward.
+A core part of my professional journey has been stakeholder management. I’m proficient at aligning project objectives with business goals, ensuring all stakeholders are engaged and informed throughout the project lifecycle.
 
-Curiosity defines me. I love learning new things on my own, not only in technical aspects but also in the arts. I’m into movie-making, photography and music. I even had bands back in Buenos Aires where I played different instruments.
-
-Last but not least, I thrive with open communications. I enjoy finding consensus with good sessions of discussions with people, and I strongly believe that documentation is the way to structure all kinds of data, so that can be revisited and updated.
+Moreover, I place a high value on communication. I enjoy teaching and mentoring, believing knowledge sharing is vital for team growth and success. I foster open communication and feedback, as I’m convinced these practices improve project outcomes and contribute to a positive and collaborative work culture.
 
 ### In a nutshell
 
