@@ -14,9 +14,7 @@ Moreover, I place a high value on communication. I enjoy teaching and mentoring,
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
 - 🎴 I created a web-based Risk type of game to learn TypeScript:
 
-![https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif](https://storage.googleapis.com/cdn-brohard-dev/tog/tog.gif)
+![http://cdn.gedv.me/tog.gif](https://storage.googleapis.com/cdn.gedv.me/tog.gif)
 
-- 🗺 I created a procedural map generator to learn Golang
-
-![https://storage.googleapis.com/cdn-brohard-dev/voloros/small.jpg](https://storage.googleapis.com/cdn-brohard-dev/voloros/small.jpg)
+- 🗺 I created a procedural map generator to learn Rust
 
