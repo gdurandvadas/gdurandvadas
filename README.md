@@ -1,12 +1,10 @@
 ## Hi there! 👋
 
-I’m a Site Reliability Engineer and a Developer with over twelve years of experience in the IT industry. My career began as a SysAdmin, and during my time at Red Hat, I discovered my deep-rooted interest in managing complex systems.
+I'm a Site Reliability Engineer and Developer with over twelve years of experience in the software industry. I'm passionate about automation, architecture, security, development and optimization. I enjoy projects requiring technical knowledge, strategic vision and effective project management.
 
-I’m passionate about automation, architecture, security and development. I thrive in environments where I can tackle challenging projects requiring technical acumen, strategic roadmapping, and effective project management.
+Whether managing stakeholders, creating internal blog posts or hosting meetings, communication has become a core part of my career. I'm passionate about inspiring, mentoring and enhancing team collaboration.
 
-A core part of my professional journey has been stakeholder management. I’m proficient at aligning project objectives with business goals, ensuring all stakeholders are engaged and informed throughout the project lifecycle.
-
-Moreover, I place a high value on communication. I enjoy teaching and mentoring, believing knowledge sharing is vital for team growth and success. I foster open communication and feedback, as I’m convinced these practices improve project outcomes and contribute to a positive and collaborative work culture.
+In my journey, I had the privilege to work in diverse and challenging environments. Requiring skills in scaling infrastructure for millions of users or strict security requirements.
 
 ### In a nutshell
 
