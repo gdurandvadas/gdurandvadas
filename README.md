@@ -12,7 +12,9 @@ In my journey, I had the privilege to work in diverse and challenging environmen
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
 - 🎴 I created a web-based Risk type of game to learn TypeScript:
 
-![http://cdn.gedv.me/tog.gif](https://storage.googleapis.com/cdn.gedv.me/tog.gif)
+![TOG](http://cdn.gedv.me/TOG/tog.gif)
 
 - 🗺 I created a procedural map generator to learn Rust
+
+![hextergen](http://cdn.gedv.me/hextergen/simulation/interaction_elevations.png)
 
