@@ -20,6 +20,7 @@ Senior Platform Engineer at [Bitvavo](https://bitvavo.com/en)
 
 ## Links
 
+- [About](https://about.gedv.me)
 - [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
 
 ## Projects
