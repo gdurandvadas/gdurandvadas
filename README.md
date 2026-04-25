@@ -1,20 +1,33 @@
-## Hi there! 👋
+# Hi
 
-I'm a Platform Engineer and Developer with over twelve years of experience in the software industry. I'm passionate about automation, architecture, security, development and optimization. I enjoy projects requiring technical knowledge, strategic vision and effective project management.
+I work on platform engineering, CI/CD, and internal developer tooling. The
+focus is usually the same: make delivery safer, faster, and less dependent on
+tribal knowledge.
 
-Whether managing stakeholders, creating internal blog posts or hosting meetings, communication has become a core part of my career. I'm passionate about inspiring, mentoring and enhancing team collaboration.
+I enjoy building systems that remove friction for engineers without turning
+into platform magic. Most of my work sits around automation, governance,
+developer experience, and infrastructure that has to scale across teams.
 
-In my journey, I had the privilege to work in diverse and challenging environments. Requiring skills in scaling infrastructure for millions of users or strict security requirements.
+Outside day-to-day platform work, I like projects that make me learn by
+building:
 
-### In a nutshell
+- A web-based Risk-style game to learn TypeScript
+- A procedural map generator to learn Rust
 
-- 🔭 I currently work at [Bitvavo](https://bitvavo.com/en) as Senior Platform Engineer
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
-- 🎴 I created a web-based Risk type of game to learn TypeScript:
+## Current role
+
+Senior Platform Engineer at [Bitvavo](https://bitvavo.com/en)
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/gedurandvadas/)
+
+## Projects
+
+### Risk-style game
 
 ![TOG](http://cdn.gedv.me/TOG/tog.gif)
 
-- 🗺 I created a procedural map generator to learn Rust
+### Procedural map generator
 
 ![hextergen](http://cdn.gedv.me/hextergen/simulation/interaction_elevations.png)
-
