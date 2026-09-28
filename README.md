@@ -21,7 +21,7 @@ simple for the people using it.
 <table>
   <tr>
     <th align="center" width="50%">
-        Risk-style game
+        <a href="https://cli.ayni.build">Ayni</a>
     </th>
     <th align="center" width="50%">
       <a href="https://about.gedv.me/posts/exploring-hex-map-generation-in-rust/">Hex map generation</a>
@@ -29,8 +29,8 @@ simple for the people using it.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="http://cdn.gedv.me/TOG/tog.gif">
-        <img src="http://cdn.gedv.me/TOG/tog.gif" alt="Risk-style game" width="100%">
+      <a href="https://cli.ayni.build">
+        <img src="https://about.gedv.me/posts/a-coding-agent-needs-more-than-a-test-command/ayni-signals.png" alt="Ayni quality signal report" width="100%">
       </a>
     </td>
     <td align="center" width="50%">
